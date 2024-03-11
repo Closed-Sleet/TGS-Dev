@@ -4,6 +4,7 @@ This is soley for the developers of the modpack to share ideas and act as a cent
   - Fix the Voicechat mod
   - Work on Dynamic lighting
   - Remove random config options buttons for various mods litered around the menus using fancy menus mod
+  - Weeping angels can soft lock player via teleport unless player kills self
    
  ## New stuff:
   - Nautilous shell armor modification
