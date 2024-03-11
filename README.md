@@ -1,6 +1,5 @@
-## This is soley for the developers of the modpack to share Ideas and act as a central todo list.
-
-# TODO:
+# TODO List
+This is soley for the developers of the modpack to share ideas and act as a central todo list. Not for public use/viewing.
  ##  Fixes:
   - Fix Usernameplates being visible
   - Fix the Voicechat mod
