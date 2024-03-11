@@ -1,9 +1,7 @@
 # TODO List
 This is soley for the developers of the modpack to share ideas and act as a central todo list. Not for public use/viewing.
  ##  Fixes:
-  - Fix Usernameplates being visible
   - Fix the Voicechat mod
-  - Investigate TPS issues
   - Work on Dynamic lighting
   - Remove random config options buttons for various mods litered around the menus using fancy menus mod
    
