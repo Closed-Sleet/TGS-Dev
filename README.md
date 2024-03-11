@@ -16,3 +16,5 @@ This is soley for the developers of the modpack to share ideas and act as a cent
  FOR TRAILER USE THE VANLLIA MINECRAFT Volume alpha:KEY music over B roll footage of vanilla landscapes and structures. 
  Random slices of complete silence with B roll of the environment darkened, with mobs/monsters.
  The stinger at the end should be completely Silent with the title and the eyes both fading in eyes getting closer.
+
+# LORE MOMENT
