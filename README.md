@@ -9,8 +9,9 @@ This is soley for the developers of the modpack to share ideas and act as a cent
  ## New stuff:
   **WHENEVER ADDING NEW DIMENSIONS ADD THEM TO THE TELEPORT BAN LIST FOR WEEPING ANGELS IN config/Weeping_angels-common.toml**
   - Nautilous shell armor modification
+  - Make some sacrifice alter thing maybe use the existing sacrifices from the midnight madness mod (remember the freed spirit item from John Reborn)
   - Copper aromor/tools at chainmail/gold level respectively (maybe with custom effects?)
-  - Add shadow dimension for angel/Fogman banishment
+  - Add a death dimension
   - Custom Loading/title screens need to be made and implemented
   - Implement a written book given to the player that contains lore stuffs (outlined in the google docs attached below from TITLE PAGE to PAGE 5)
 
