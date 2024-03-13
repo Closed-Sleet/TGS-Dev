@@ -36,6 +36,7 @@ Page 1:
 The Silent World,
 
 Currently the home of an unknown but violent god. Do not under any circumstances travel to this world. The god seems to only be growing in power the more travelers lost. The god seems to be somehow preventing travelers from leaving.
+
 DO NOT ENGAGE.
 
 
@@ -47,6 +48,7 @@ That’s what the official warning stated anyways. Upon further research it beca
 Page 3:
 
 Day 1,
+
 Quickly noting some observations. This world seems friendly if not barren. Maybe the god left this land long ago and nobody has realized. Need to find a way back though, my magic doesn’t seem to work at all in this world.
 
 
