@@ -8,6 +8,8 @@ This is soley for the developers of the modpack to share ideas and act as a cent
    
  ## New stuff:
   **WHENEVER ADDING NEW DIMENSIONS ADD THEM TO THE TELEPORT BAN LIST FOR WEEPING ANGELS IN config/Weeping_angels-common.toml**
+  - Make recipe for shield involve one soul steal instead of iron
+  - Make the shield have a parry function, If timed correctly blocking should disable the attacker or deflect the projectile right back at the attacker (Maybe use a prediction of attackers movement to make it more likely to connect) Guarentee a crit on the follow up attack after the parry.
   - Nautilous shell armor modification
   - Make some sacrifice alter thing maybe use the existing sacrifices from the midnight madness mod (remember the freed spirit item from John Reborn)
   - Copper aromor/tools at chainmail/gold level respectively (maybe with custom effects?)
