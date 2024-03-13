@@ -3,6 +3,7 @@ This is soley for the developers of the modpack to share ideas and act as a cent
  ##  Fixes:
   - Work on Dynamic lighting
   - Remove random config options buttons for various mods litered around the menus using fancy menus mod
+  - Cull mobs that are flagged as nightime only during day when out of sight from the player, this is to avoid mainly the undead horrors from harassing a player well into daytime.
    
  ## New stuff:
   - Nautilous shell armor modification
