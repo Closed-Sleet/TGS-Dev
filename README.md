@@ -30,10 +30,15 @@ https://docs.google.com/document/d/1pBg5-9OQ13IO_q-W9kJJ1SBccWUD9E2hxMcuLefUH28/
 # Credits:
 ### **Tommie** 
 **Super special thanks.** All custom mods and tweaks for the modpak were developed soley by him. This entire pack wouldn't be possible without him putting as much work in as he has without expecting anything in return.  
+
 Sleet090 (Designer behind the mod pack)  
+
 Dxvillish (Play tester)  
+
 Innocentomb0 (Play tester)  
+
 Fury_Destroyer (Play tester)  
+
 The play testers had to put up with a lot of bs and constantly updating things as we tweaked things and bugs/problems were found.
 They also came up with a lot of ideas that were later implemented.
 **They deserve praise though their role might not seem significant to you.**
