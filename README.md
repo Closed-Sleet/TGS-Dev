@@ -19,8 +19,7 @@
   - Implement a written book given to the player that contains lore stuffs (outlined in the google docs attached below from TITLE PAGE to PAGE 5)
 
 # LORE MOMENT
-The following is the link for the lore overview sheet:
-https://docs.google.com/document/d/1pBg5-9OQ13IO_q-W9kJJ1SBccWUD9E2hxMcuLefUH28/edit?usp=sharing
+Lore overview for dev eyes only, no peeking :)
 
 # Trailer idea:
  FOR TRAILER USE THE VANLLIA MINECRAFT Volume alpha:KEY music over B roll footage of vanilla landscapes and structures. 
