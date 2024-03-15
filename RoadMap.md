@@ -1,15 +1,18 @@
 # Development Timeline
- ** 1.0 will be early game from spawning into obtaining copper/iron tools and armor. **
+ **1.0 will be early game from spawning into obtaining copper/iron tools and armor.**
+ 
   (We've already done a lot here hence we are on version 0.84rn)
 
- ** 2.0 Will be from copper/iron all the way to the nether **
+ **2.0 Will be from copper/iron all the way to the nether**
+ 
   (Already some mild work here but still lot of thought needed)
 
- ** 3.0 Will focus on the end. **
+ **3.0 Will focus on the end.**
+ 
   The Ender dragon fight, and the deeper and darker dimension. 
   (Like 1 or 2 steps taken down this path)
 
- ** 4.0 The Wither, Layer of the unknown god. **
+ **4.0 The Wither, Layer of the unknown god.**
   This version will focus on finally killing the god and the true endgame post dragon here. 
   (Entirely conceptual and barely even considered yet)
 
