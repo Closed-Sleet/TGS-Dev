@@ -15,7 +15,7 @@
   - Nautilous shell armor modifications?
   - Make some sacrifice alter thing maybe use the existing sacrifices from the midnight madness mod (remember the freed spirit item from John Reborn)
   - Copper aromor/tools at chainmail/gold level respectively Setup for implementation of magic stuffs.
-  - Add a death dimension
+  - Add a reasonible punishment for death (Other than respawn)
   - Custom Loading/title screens need to be made and implemented
   - Implement a written book given to the player that contains lore stuffs (outlined in the google docs attached below from TITLE PAGE to PAGE 5)
 
