@@ -43,4 +43,4 @@ The play testers had to put up with a lot of bs and constantly updating things a
 They also came up with a lot of ideas that were later implemented.
 **They deserve praise though their role might not seem significant to you.**
 
-### None of this could have been done without the many developers who made and open sourced all the mods used in the pack. Please scroll through the mods list and take a look at any of their stuff. 
+### None of this could have been done without the many developers who made and open sourced all *(Most) the mods used in the pack. Please scroll through the mods list and take a look at any of their stuff. 
