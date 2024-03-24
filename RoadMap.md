@@ -1,18 +1,19 @@
 # Development Timeline
- **1.0 will be early game from spawning into obtaining copper/iron tools and armor.**
- 
+ **1.0 Getting our barings **
+
+  Literally like get basics of combat good, get performance good and get copper/iron introduced and balanced.
   (We've already done a lot here hence we are on version 0.84rn)
 
- **2.0 Will be from copper/iron all the way to the nether**
- 
+ **2.0 Another, Deeper, Layer. **
+ Add the nether and a defined midgame and midgame progression based on mining and combat from exploring and surviving. This will probably be the longest and most interesting phase.
   (Already some mild work here but still lot of thought needed)
 
- **3.0 Will focus on the end.**
- 
-  The Ender dragon fight, and the deeper and darker dimension. 
+ **3.0 The End? **
+ Balance the late game and designate a new type of progression.
+  The Ender dragon fight, and maybe the deeper and darker dimension. 
   (Like 1 or 2 steps taken down this path)
 
- **4.0 The Wither, Layer of the unknown god.**
+ **4.0 Slayers of the unknown god **
   This version will focus on finally killing the god and the true endgame post dragon here. 
   (Entirely conceptual and barely even considered yet)
 
