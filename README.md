@@ -2,22 +2,11 @@
 ### Project is still in active development, as such this github is for the conveince of the devs and public if they want to observe progress or are otherwise interested in the project.
 
  ##  Fixes:
-  - Work on Dynamic lighting
-  - Remove random config options buttons for various mods litered around the menus using fancy menus mod
-  - Cull mobs that are flagged as nightime only during day when out of sight from the player, this is to avoid mainly the undead horrors from harassing a player well into daytime.
-  - Investigate TPS issues
+
 
    
  ## New stuff:
   **WHENEVER ADDING NEW DIMENSIONS ADD THEM TO THE TELEPORT BAN LIST FOR WEEPING ANGELS IN config/Weeping_angels-common.toml**
-  - Make recipe for shield involve one soul steal instead of iron?
-  - Make the shield have a parry function, If timed correctly blocking should disable the attacker or deflect the projectile right back at the attacker. Guarentee a crit on the follow up attack after the parry.
-  - Nautilous shell armor modifications?
-  - Make some sacrifice alter thing maybe use the existing sacrifices from the midnight madness mod (remember the freed spirit item from John Reborn)
-  - Copper aromor/tools at chainmail/gold level respectively Setup for implementation of magic stuffs.
-  - Add a reasonible punishment for death (Other than respawn)
-  - Custom Loading/title screens need to be made and implemented
-  - Implement a written book given to the player that contains lore stuffs (outlined in the google docs attached below from TITLE PAGE to PAGE 5)
 
 # LORE MOMENT
 Lore overview for dev eyes only, no peeking :)
