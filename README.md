@@ -1,26 +1,27 @@
-# TODO List
 ### Project is still in active development, as such this github is for the conveince of the devs and public if they want to observe progress or are otherwise interested in the project.
 
- ##  Fixes:
+# Development Timeline
+ **1.0 Getting our barings **
 
+  Literally like get basics of combat good, get performance good and get copper/iron introduced and balanced.
 
-   
- ## New stuff:
-  **WHENEVER ADDING NEW DIMENSIONS ADD THEM TO THE TELEPORT BAN LIST FOR WEEPING ANGELS IN config/Weeping_angels-common.toml**
+ **2.0 Another, Deeper, Layer. **
+ Balance the nether and a defined midgame and midgame progression based on mining and combat from exploring and surviving. This will probably be the longest and most interesting phase.
 
-# LORE MOMENT
-Lore overview for dev eyes only, no peeking :)
+ **3.0 The End? **
+ Balance the late game and designate a new type of progression.
+  The Ender dragon fight, and maybe the deeper and darker dimension. 
 
-# Trailer idea:
- FOR TRAILER USE THE VANLLIA MINECRAFT Volume alpha:KEY music over B roll footage of vanilla landscapes and structures. 
- Random slices of complete silence with B roll of the environment darkened, with mobs/monsters.
- The stinger at the end should be completely Silent with the title and the eyes both fading in eyes getting closer.
+ **4.0 Slayers of the unknown god **
+  This version will focus on finally killing the god and the true endgame post dragon here. 
+
+ ### We may do hybrid releases as we make progress in multiple areas but I suspect this development roadmap will prove to be true regardless if we follow version names or not.
 
 # Credits:
-### **Tommie** 
-**Super special thanks.** All custom mods and tweaks for the modpak were developed soley by him. This entire pack wouldn't be possible without him putting as much work in as he has without expecting anything in return.  
+### **7board7** 
+**Super special thanks Tom.** All custom mods and tweaks for the modpak were developed soley by them. This entire pack wouldn't be possible without them putting as much work in as they have without expecting anything in return.  
 
-Sleet090 (Designer behind the mod pack)  
+Sleet090 (Designer)  
 
 Dxvillish (Play tester)  
 
