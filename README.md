@@ -6,13 +6,16 @@
   Literally like get basics of combat good, get performance good and get copper/iron introduced and balanced.
 
  **2.0 Another, Deeper, Layer.**
+ 
  Balance the nether and a defined midgame and midgame progression based on mining and combat from exploring and surviving. This will probably be the longest and most interesting phase.
 
  **3.0 The End?**
+ 
  Balance the late game and designate a new type of progression.
-  The Ender dragon fight, and maybe the deeper and darker dimension. 
+ The Ender dragon fight, and maybe the deeper and darker dimension. 
 
  **4.0 Slayers of the unknown god**
+ 
   This version will focus on finally killing the god and the true endgame post dragon here. 
 
  ### We may do hybrid releases as we make progress in multiple areas but I suspect this development roadmap will prove to be true regardless if we follow version names or not.
