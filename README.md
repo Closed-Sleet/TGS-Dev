@@ -17,7 +17,7 @@
 
  **1.1 Slayers of the unknown god**
  
-  This version will focus on finally killing the god and the true endgame post dragon here. 
+  This version will focus on finally killing the god and the true endgame post god here. 
 
  ### We may do hybrid releases as we make progress in multiple areas but I suspect this development roadmap will prove to be true regardless if we follow version names or not.
 
