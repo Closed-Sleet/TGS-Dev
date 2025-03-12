@@ -1,4 +1,5 @@
 ### Project is still in active development, as such this github is for the conveince of the devs and public if they want to observe progress or are otherwise interested in the project.
+# REPORT ISSUES USING THE GITHUB ISSUES FEATURE
 
 # Development Timeline
  **0.7 Getting our barings**
