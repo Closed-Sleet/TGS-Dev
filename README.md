@@ -1,20 +1,20 @@
 ### Project is still in active development, as such this github is for the conveince of the devs and public if they want to observe progress or are otherwise interested in the project.
 
 # Development Timeline
- **1.0 Getting our barings**
+ **0.7 Getting our barings**
 
   Literally like get basics of combat good, get performance good and get copper/iron introduced and balanced.
 
- **2.0 Another, Deeper, Layer.**
+ **0.9 Another, Deeper, Layer.**
  
  Balance the nether and a defined midgame and midgame progression based on mining and combat from exploring and surviving. This will probably be the longest and most interesting phase.
 
- **3.0 The End?**
+ **1.0 The End?**
  
  Balance the late game and designate a new type of progression.
  The Ender dragon fight, and maybe the deeper and darker dimension. 
 
- **4.0 Slayers of the unknown god**
+ **1.1 Slayers of the unknown god**
  
   This version will focus on finally killing the god and the true endgame post dragon here. 
 
@@ -22,9 +22,9 @@
 
 # Credits:
 ### **7board7** 
-**Super special thanks Tom.** All custom mods and tweaks for the modpak were developed soley by them. This entire pack wouldn't be possible without them putting as much work in as they have without expecting anything in return.  
+**Super special thanks Tom.** All custom mods and tweaks for the modpak were developed soley by them initially. This entire pack wouldn't be possible without them putting as much work in as they have without expecting anything in return.  
 
-Sleet090 (Designer)  
+Sleet090 (Designer/Developer)  
 
 Dxvillish (Play tester)  
 
