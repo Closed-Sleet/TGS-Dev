@@ -2,6 +2,8 @@
 This repository will contain an archive of versions of the modpack for those who are curious.
 # REPORT ISSUES ON [CURSEFORGE](https://legacy.curseforge.com/minecraft/modpacks/the-great-silence/issues/create)
 
+# Github [Repo for TGS Tweaks](https://github.com/Closed-Sleet/TGS-Tweaks)
+
 # Development Timeline
   **Pre 0.7 Alpha**
 
