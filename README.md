@@ -1,7 +1,12 @@
 ### Project is still in active development, as such this github is for the conveince of the devs and public if they want to observe progress or are otherwise interested in the project.
-# REPORT ISSUES USING THE GITHUB ISSUES FEATURE
+This repository will contain an archive of versions of the modpack for those who are curious.
+# REPORT ISSUES ON [CURSEFORGE](https://legacy.curseforge.com/minecraft/modpacks/the-great-silence/issues/create)
 
 # Development Timeline
+  **Pre 0.7 Alpha**
+
+  Conceptual phase, mostly figuring out what is/isn't fun. Searching for where to go with the pack.
+
  **0.7 Getting our barings**
 
   Literally like get basics of combat good, get performance good and get copper/iron introduced and balanced.
@@ -37,4 +42,4 @@ The play testers had to put up with a lot of bs and constantly updating things a
 They also came up with a lot of ideas that were later implemented.
 **They deserve praise though their role might not seem significant to you.**
 
-### None of this could have been done without the many developers who made and open sourced all *(Most) the mods used in the pack. Please scroll through the mods list and take a look at any of their stuff. 
+### None of this could have been done without the many developers who made the mods used in the pack. Please scroll through the mods list and take a look at any of their stuff. 
